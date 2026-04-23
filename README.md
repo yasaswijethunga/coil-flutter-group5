@@ -14,3 +14,5 @@ See [STUDENTS.md](STUDENTS.md) for the full list of group members.
 
 - [Homework 1](Homework%201) - Simple Login Screen
 - [Homework 2](Homework%202) - Material UI Team Profile App
+- [Homework 3](Homework%203) - Restaurant App
+
